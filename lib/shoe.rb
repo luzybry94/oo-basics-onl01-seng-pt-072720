@@ -11,9 +11,9 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-    # binding.pry
+    binding.pry
     condition = "new"
-    # binding.pry
+    binding.pry
   end
 
   
